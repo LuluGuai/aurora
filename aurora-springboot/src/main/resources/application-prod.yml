@@ -72,11 +72,11 @@ upload:
     accessKeySecret: OSS配置accessKeySecret
     bucketName: OSS配置bucketName
   minio:
-    url: http://minio的ip:9000/
-    endpoint: http://minio的ip:9000
-    accesskey: 用户名
-    secretKey: 密码
-    bucketName: 桶的名称
+    url: http://154.12.37.189:9000/
+    endpoint: http://154.12.37.189:9000
+    accesskey: YD0upgDWeA70P5rS
+    secretKey: 85r7gOyoWQA7f3sCeLN72CMjf2sIFWBF
+    bucketName: aurora
 
 
 qq:
